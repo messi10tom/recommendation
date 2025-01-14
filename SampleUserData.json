@@ -1,0 +1,105 @@
+{
+    "User_1": {
+        
+            "ClickedNews": ["NewsArticle_0", "NewsArticle_1", "NewsArticle_2", "NewsArticle_3", "NewsArticle_4"],
+            "ClickedNewsID": [333, 145, 372, 194],
+            "ReadingTimes": [5, 12, 12, 8, 10],
+            "ScrollBehavior": {
+              "NewsArticle_0": {"20%": 3, "40%": 4, "60%": 5, "80%": 0, "100%": 5},
+              "NewsArticle_1": {"20%": 4, "40%": 0, "60%": 5, "80%": 0, "100%": 2},
+              "NewsArticle_2": {"20%": 1, "40%": 4, "60%": 1, "80%": 2, "100%": 1},
+              "NewsArticle_3": {"20%": 5, "40%": 2, "60%": 1, "80%": 5, "100%": 5},
+              "NewsArticle_4": {"20%": 2, "40%": 3, "60%": 0, "80%": 0, "100%": 2}
+            },
+            "SearchQueries": ["tech", "sports", "sports"],
+            "LikedNewsID": [333, 194],
+            "SharedNewsID": [145, 333],
+            "CommentedNews": {"1": ["Comment 0"], "0": ["Comment 1", "Comment 2"], "2": ["Comment 2"]},
+            "BookmarkedNews": ["NewsArticle_4", "NewsArticle_2"],
+            "DownloadedNews": ["NewsArticle_3", "NewsArticle_2"],
+            "ReadLaterList": ["NewsArticle_1", "NewsArticle_0"],
+            "PreferredCategories": ["Tech", "Politics", "Health"],
+            "InterestedTags": ["AI", "Climate Change", "Economy", "Sports"],
+            "LanguagePreferences": ["English", "Spanish"],
+            "UserCountry": "USA",
+            "UserAge": 47,
+            "ArticleLengths": [572, 1166, 473, 727, 372],
+            "ArticleDates": [
+              "2024-12-08T12:01:26",
+              "2024-11-27T12:01:26",
+              "2024-11-23T12:01:26",
+              "2024-12-10T12:01:26",
+              "2024-12-15T12:01:26"
+            ],
+            "ArticleTimes": ["night", "evening", "evening", "morning", "night"],
+            "ArticleSources": ["CNN", "BBC", "The Verge", "NY Times", "The Guardian"],
+            "ArticleAuthors": ["Author1", "Author2", "Author3", "Author4", "Author5"],
+            "ActivityTimes": ["evening", "evening", "afternoon", "morning", "night"],
+            "EngagementFrequency": "weekly",
+            "TrendingTopics": ["AI", "2024 Elections", "Global Warming", "Cryptocurrency", "Space Exploration"],
+            "RecencyScores": [0.189, 0.801, 0.940, 0.385, 0.804],
+            "TopViewedNews": ["NewsArticle_1", "NewsArticle_2", "NewsArticle_0", "NewsArticle_4", "NewsArticle_3"],
+            "TopSharedNews": ["NewsArticle_1", "NewsArticle_2", "NewsArticle_0", "NewsArticle_3", "NewsArticle_4"],
+            "TopCommentedNews": ["NewsArticle_1", "NewsArticle_0", "NewsArticle_2", "NewsArticle_3", "NewsArticle_4"],
+            "ArticlesRead": ["NewsArticle_0", "NewsArticle_1", "NewsArticle_2", "NewsArticle_3", "NewsArticle_4"],
+            "SkippedNews": ["NewsArticle_2", "NewsArticle_1"],
+            "DislikedNews": ["NewsArticle_2"],
+            "RelevanceScores": [0.893, 0.647, 0.633, 0.499, 0.811],
+            "DeviceType": "tablet",
+            "LocationData": {"city": "New York", "coordinates": {"lat": 40.7128, "long": -74.0060}},
+            "SessionDurations": [10, 9, 6, 16, 10]
+          
+          
+    },
+    "User_2": {
+            "ClickedNews": ["NewsArticle_1", "NewsArticle_2", "NewsArticle_3", "NewsArticle_4", "NewsArticle_0"],
+            "ClickedNewsID": [187, 492, 445, 5],
+            "ReadingTimes": [12, 14, 8, 6, 10],
+            "ScrollBehavior": {
+              "NewsArticle_1": {"0%": 2, "20%": 3, "40%": 1, "60%": 4, "80%": 5, "100%": 2},
+              "NewsArticle_2": {"0%": 0, "20%": 2, "40%": 3, "60%": 0, "80%": 1, "100%": 1},
+              "NewsArticle_3": {"0%": 3, "20%": 5, "40%": 4, "60%": 2, "80%": 0, "100%": 5},
+              "NewsArticle_4": {"0%": 1, "20%": 0, "40%": 3, "60%": 4, "80%": 1, "100%": 0},
+              "NewsArticle_0": {"0%": 2, "20%": 4, "40%": 5, "60%": 1, "80%": 3, "100%": 4}
+            },
+            "SearchQueries": ["AI", "politics", "health"],
+            "LikedNewsID": [492, 187],
+            "SharedNewsID": [187, 492, 5],
+            "CommentedNews": {"187": ["Not great article!", "Not very helpful"], "5": ["Insightful read"]},
+            "BookmarkedNews": ["NewsArticle_2", "NewsArticle_4"],
+            "DownloadedNews": ["NewsArticle_1", "NewsArticle_3"],
+            "ReadLaterList": ["NewsArticle_0", "NewsArticle_3"],
+            "PreferredCategories": ["Tech", "Politics", "Health"],
+            "InterestedTags": ["AI", "Climate Change", "Economy", "Sports"],
+            "LanguagePreferences": ["English", "Spanish"],
+            "UserCountry": "USA",
+            "UserAge": 41,
+            "ArticleLengths": [445, 1464, 1103, 1023, 1392],
+            "ArticleDates": [
+              "2024-11-26T12:01:26",
+              "2024-12-19T12:01:26",
+              "2024-12-08T12:01:26",
+              "2024-11-27T12:01:26",
+              "2024-11-29T12:01:26"
+            ],
+            "ArticleTimes": ["night", "night", "afternoon", "morning", "evening"],
+            "ArticleSources": ["CNN", "BBC", "The Verge", "NY Times", "The Guardian"],
+            "ArticleAuthors": ["Author1", "Author2", "Author3", "Author4", "Author5"],
+            "ActivityTimes": ["afternoon", "evening", "night", "night", "night"],
+            "EngagementFrequency": "weekly",
+            "TrendingTopics": ["AI", "2024 Elections", "Global Warming", "Cryptocurrency", "Space Exploration"],
+            "RecencyScores": [0.189, 0.801, 0.940, 0.385, 0.804],
+            "TopViewedNews": ["NewsArticle_1", "NewsArticle_2", "NewsArticle_0", "NewsArticle_4", "NewsArticle_3"],
+            "TopSharedNews": ["NewsArticle_1", "NewsArticle_2", "NewsArticle_0", "NewsArticle_3", "NewsArticle_4"],
+            "TopCommentedNews": ["NewsArticle_1", "NewsArticle_0", "NewsArticle_2", "NewsArticle_3", "NewsArticle_4"],
+            "ArticlesRead": ["NewsArticle_0", "NewsArticle_1", "NewsArticle_2", "NewsArticle_3", "NewsArticle_4"],
+            "SkippedNews": ["NewsArticle_2", "NewsArticle_1"],
+            "DislikedNews": ["NewsArticle_2"],
+            "RelevanceScores": [0.893, 0.647, 0.633, 0.499, 0.811],
+            "DeviceType": "tablet",
+            "LocationData": {"city": "New York", "coordinates": {"lat": 40.7128, "long": -74.0060}},
+            "SessionDurations": [10, 9, 6, 16, 10]
+          
+    }
+    
+}
